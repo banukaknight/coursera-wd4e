@@ -1,0 +1,41 @@
+body{
+	font-size: 125%;
+}
+
+.right{
+	background: #666666;
+}
+
+header{
+	background: #A9A9A9;
+}
+
+h1{
+	color: #ffffff;
+  text-transform: uppercase;
+	text-align: center;
+}
+
+a{
+	background: #d3d3d3; 
+  color: #000000;
+}
+nav{
+	font-family: Arial, "Times New Roman", serif;
+	font-size: 150%;
+}
+
+h2{
+	color: #00008B;
+  text-transform: uppercase;
+}
+
+
+footer{
+	background: #666666
+}
+
+img{
+  Display: none;
+}
+
